@@ -56,8 +56,9 @@ const profile = {
     "Contributing to Open Source"
   ]
 };
+```
 
-Technical Expertise
+### Technical Expertise
 
 <div align="center">
   <details open>
@@ -87,7 +88,7 @@ Technical Expertise
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-Analytics
+### Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alaxswum&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4F94EF&icon_color=4F94EF"/>
@@ -100,7 +101,7 @@ Analytics
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-Featured Projects
+### Featured Projects
 
 <div align="center">
   <a href="https://github.com/alaxswum/project1">
@@ -113,7 +114,7 @@ Featured Projects
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-Contributions
+### Contributions
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaxswum&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=4F94EF&line=4F94EF&point=4F94EF" width="95%" alt="activity graph">
@@ -125,7 +126,7 @@ Contributions
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-Let's Connect
+### Let's Connect
 
 <div align="center">
   <a href="https://twitter.com/yourusername">
