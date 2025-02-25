@@ -1,4 +1,57 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c7ad,100:6a59d1&height=200&section=header&text=Hi,%20I'm%20Swum&fontSize=60&fontColor=fff&fontAlignY=35&desc=Developer%20|%20Designer%20|%20AI%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00C7AD&center=true&vCenter=true&random=false&width=500&height=60&lines=Building+intelligent+digital+solutions;Full-stack+developer+by+day;AI+learner+by+night;Bringing+ideas+to+life+with+code" alt="Typing SVG"/>
+  </a>
+
+  <div>
+    <a href="https://linkedin.com/in/swumpyaesone">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=3a88fe" alt="LinkedIn">
+    </a>
+    <a href="mailto:swumpyaesone.creative@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=f84437" alt="Email">
+    </a>
+    <a href="https://medium.com/@swumpyaesone">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=191919" alt="Medium">
+    </a>
+  </div>
+  
+  <div align="center">
+    <img src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47y5m2ipt1ppqcdcuye1l98hszqj3cuxgwnyfyvz8e&rid=giphy.gif" width="300" height="200" />
+  </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=alaxswum&style=for-the-badge&color=6A59D1" alt="Profile views">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **About Me**
+
+<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250">
+
+```javascript
+const swum = {
+  currentlyBuilding: "Self-Paced Learning Platform",
+  learning: ["Next.js", "Large Language Models", "Cloud Architecture"],
+  passions: ["Clean Code", "UX/UI", "AI Integration", "Problem Solving"],
+  askMeAbout: ["Web Dev", "Tech", "App Design", "Machine Learning"],
+  funFact: "I don't have a life!!!"
+};
+Participate in local events and programs promoting healthy living and sustainable practices.
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Skills & Technologies
+
+<div align="center">
   <h3>📋 Languages</h3>
   <p>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -88,3 +141,79 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaxswum&theme=algolia&hide_border=true&background=0D1117" alt="alaxswum's streak stats">
 </p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alaxswum&theme=algolia&no-frame=true&column=7&margin-w=15" alt="alaxswum's trophies">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://media4.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif?cid=ecf05e473w3shj75etvj3qba3qhsyby7role7f6kvqz3vvx1&rid=giphy.gif" width="30"> **Featured Projects**
+
+<div align="center">
+  <a href="https://github.com/alaxswum/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alaxswum&repo=project1&theme=algolia&bg_color=0D1117&hide_border=true" alt="Project 1">
+  </a>
+  <a href="https://github.com/alaxswum/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alaxswum&repo=project2&theme=algolia&bg_color=0D1117&hide_border=true" alt="Project 2">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> **Weekly Coding Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alaxswum&theme=algolia&bg_color=0D1117&hide_border=true" alt="Wakatime Stats">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://media2.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> **Random Dev Quote**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://media2.giphy.com/media/dxIWYNNVq7U7Tz8uJV/giphy.gif?cid=ecf05e473jerrbtlop7tyy3ahbs3a7y46vj1zhsvkpzihfq4&rid=giphy.gif" width="30"> **Let's Connect**
+
+<div align="center">
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://dev.to/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
+  </a>
+  <a href="https://stackoverflow.com/users/youruserid" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
+  </a>
+  <a href="https://www.hackerrank.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%">
+</div>
