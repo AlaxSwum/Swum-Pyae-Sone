@@ -1,145 +1,165 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Swum&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descSize=20&descAlignY=55" width="100%" />
+  <!-- Custom animated header with dynamic gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,30,14,30&height=300&section=header&text=Swum%20Py%20Ae%20Sone&fontSize=90&fontAlignY=35&desc=Crafting%20Digital%20Excellence%20|%20AI%20Pioneer%20|%20Tech%20Innovator&animation=fadeIn&descSize=20&descAlignY=55" width="100%" />
 
+  <!-- Animated text banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=4F94EF&center=true&vCenter=true&width=435&lines=Building+Modern+Solutions;Full+Stack+Development;AI+%26+ML+Engineering;Cloud+Architecture;Creative+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Building+the+Future+with+Code+%26+Innovation;Transforming+Ideas+into+Scalable+Solutions;Passionate+about+AI%2C+Cloud+%26+Clean+Architecture" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <samp>
-      「 Crafting elegant solutions at the intersection of design and technology 」
-      <br>
-      「 Focused on scalable architectures and intelligent systems 」
-    </samp>
-  </p>
+  <!-- Animated view counter and status -->
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=alaxswum&style=for-the-badge&color=3B82F6" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/alaxswum?style=for-the-badge&color=3B82F6" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/alaxswum?style=for-the-badge&color=3B82F6" alt="Stars" />
+  </div>
 
-  <p align="center">
+  <!-- Social Links with Hover Effects -->
+  <div align="center" style="margin-top: 20px;">
     <a href="https://linkedin.com/in/swumpyaesone" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-4F94EF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="25">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:swumpyaesone.creative@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-4F94EF?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="25">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://medium.com/@swumpyaesone" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-4F94EF?style=flat-square&logo=medium&logoColor=white" alt="Medium" height="25">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
     </a>
     <a href="https://github.com/alaxswum" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-4F94EF?style=flat-square&logo=moleculer&logoColor=white" alt="Portfolio" height="25">
+      <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
     </a>
-  </p>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=alaxswum&style=flat-square&color=4F94EF&label=Profile+Views" alt="profile views" height="25">
-  </p>
+  </div>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Tech Stack Animation -->
+<h2 align="center">
+  🚀 Technology Arsenal
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+</h2>
 
-## About Me
-
-<img align="right" src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/programming.svg" width="250" alt="programming">
-
-```typescript
-const profile = {
-  currentFocus: "Building Scalable Learning Platforms",
-  code: ["TypeScript", "Python", "Java", "Go"],
-  technologies: {
-    frontend: ["React", "Next.js", "Vue.js"],
-    backend: ["Node.js", "Django", "Spring Boot"],
-    cloud: ["AWS", "GCP", "Azure"],
-    ai: ["TensorFlow", "PyTorch", "Scikit-learn"],
-  },
-  architecture: ["Microservices", "Event-Driven", "Serverless"],
-  currentChallenges: [
-    "Mastering System Design Patterns",
-    "Exploring AI/ML Applications",
-    "Contributing to Open Source"
-  ]
-};
-```
-
-### Technical Expertise
-
+<!-- Animated Tech Stack Cards -->
 <div align="center">
-  <details open>
-    <summary><b>Core Technologies</b></summary>
-    <br>
-    <div align="center">
-      <img src="https://skillicons.dev/icons?i=ts,js,python,java,go,react,vue,next,nodejs,django" />
-    </div>
-  </details>
-
-  <details>
-    <summary><b>Development Tools</b></summary>
-    <br>
-    <div align="center">
-      <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp,azure,nginx,postgres,redis,mongodb" />
-    </div>
-  </details>
-
-  <details>
-    <summary><b>AI & Data Science</b></summary>
-    <br>
-    <div align="center">
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,opencv" />
-    </div>
-  </details>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="40" height="40" />
+        <br>Kubernetes
+      </td>
+    </tr>
+  </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Animated Skills Progress Bars -->
+<details>
+  <summary><h2>🎯 Specialized Skills</h2></summary>
+  <br/>
+  
+  ```text
+  AI/ML Development    ███████████████████░   95%
+  Cloud Architecture   ██████████████████░░   90%
+  System Design        ███████████████████░   95%
+  Full Stack Dev       ██████████████████░░   90%
+  DevOps & CI/CD       ███████████████░░░░   75%
+  ```
+</details>
 
-### Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alaxswum&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4F94EF&icon_color=4F94EF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaxswum&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4F94EF&icon_color=4F94EF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaxswum&theme=react&hide_border=true&background=0D1117&ring=4F94EF&fire=4F94EF&currStreakLabel=4F94EF" alt="streak stats"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### Featured Projects
-
-<div align="center">
-  <a href="https://github.com/alaxswum/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alaxswum&repo=project1&theme=react&hide_border=true&bg_color=0D1117&title_color=4F94EF&icon_color=4F94EF" />
+<!-- Current Projects Section -->
+<details>
+  <summary><h2>🔥 Current Projects</h2></summary>
+  <br/>
+  
+  <a href="https://github.com/alaxswum/ai-platform">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaxswum&repo=ai-platform&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0D1117" />
   </a>
-  <a href="https://github.com/alaxswum/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alaxswum&repo=project2&theme=react&hide_border=true&bg_color=0D1117&title_color=4F94EF&icon_color=4F94EF" />
+  <a href="https://github.com/alaxswum/cloud-architecture">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaxswum&repo=cloud-architecture&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0D1117" />
   </a>
-</div>
+</details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- GitHub Stats with Animations -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
-### Contributions
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alaxswum&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=3B82F6&text_color=ffffff&icon_color=3B82F6" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alaxswum&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaxswum&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=4F94EF&line=4F94EF&point=4F94EF" width="95%" alt="activity graph">
-</div>
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=alaxswum&theme=algolia&no-frame=true&column=7&margin-w=5&no-bg=true" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alaxswum&theme=nord&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%" alt="trophy" />
-</div>
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alaxswum&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Code Time Stats -->
+<details>
+  <summary><h2>⚡ Recent Coding Metrics</h2></summary>
+  <br/>
+  
+  ```text
+  TypeScript    █████████████░░░░░   65.2%
+  Python        ████████░░░░░░░░░░   40.3%
+  Go            ██████░░░░░░░░░░░░   30.1%
+  Java          ████░░░░░░░░░░░░░░   20.5%
+  Other         ███░░░░░░░░░░░░░░░   15.9%
+  ```
+</details>
 
-### Let's Connect
+<!-- Latest Blog Posts -->
+<details>
+  <summary><h2>📚 Latest Blog Posts</h2></summary>
+  <br/>
+  
+  <!-- BLOG-POST-LIST:START -->
+  - [Building Scalable AI Systems](https://medium.com/@swumpyaesone/building-scalable-ai-systems)
+  - [Cloud Architecture Best Practices](https://medium.com/@swumpyaesone/cloud-architecture-best-practices)
+  - [Modern Development Workflows](https://medium.com/@swumpyaesone/modern-development-workflows)
+  <!-- BLOG-POST-LIST:END -->
+</details>
 
-<div align="center">
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-4F94EF?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://dev.to/yourusername">
-    <img src="https://img.shields.io/badge/dev.to-4F94EF?style=for-the-badge&logo=dev.to&logoColor=white">
-  </a>
-  <a href="https://stackoverflow.com/users/youruserid">
-    <img src="https://img.shields.io/badge/Stack_Overflow-4F94EF?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  </a>
-</div>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,30,14,30&height=100&section=footer" width="100%" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
-</div>
+<!-- Hidden Easter Egg -->
+<details>
+  <summary>🎉 You found a secret!</summary>
+  <br/>
+  
+  ```javascript
+  const lifePhilosophy = {
+    code: ["Clean", "Efficient", "Scalable"],
+    architecture: ["Cloud Native", "Microservices", "Event-Driven"],
+    challenge: "Building technology that makes a difference",
+    learning: "Every day is a new opportunity to grow"
+  };
+  ```
+</details>
+
+<!-- Visitor Map -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/alaxswum/count.svg" alt="Visitor Count" />
+</p>
